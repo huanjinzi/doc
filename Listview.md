@@ -51,27 +51,7 @@ RecycleBin 是 ListView 能够实现加载成百上千条数据也不会发生 O
          * @param firstActivePosition The position of the first view that will be stored in
          *        mActiveViews
          */
-        void fillActiveViews(int childCount, int firstActivePosition) {
-            if (mActiveViews.length < childCount) {
-                mActiveViews = new View[childCount];
-            }
-            mFirstActivePosition = firstActivePosition;
-
-            //noinspection MismatchedReadAndWriteOfArray
-            final View[] activeViews = mActiveViews;
-            for (int i = 0; i < childCount; i++) {
-                View child = getChildAt(i);
-                AbsListView.LayoutParams lp = (AbsListView.LayoutParams) child.getLayoutParams();
-                // Don't put header or footer views into the scrap heap
-                if (lp != null && lp.viewType != ITEM_VIEW_TYPE_HEADER_OR_FOOTER) {
-                    // Note:  We do place AdapterView.ITEM_VIEW_TYPE_IGNORE in active views.
-                    //        However, we will NOT place them into scrap views.
-                    activeViews[i] = child;
-                    // Remember the position so that setupChild() doesn't reset state.
-                    lp.scrappedFromPosition = firstActivePosition + i;
-                }
-            }
-        }
+        void fillActiveViews(int childCount, int firstActivePosition) {}
 
         /**
          * Get the view corresponding to the specified position. The view will be removed from
@@ -327,6 +307,20 @@ void fillActiveViews(int childCount, int firstActivePosition) {
                     lp.scrappedFromPosition = firstActivePosition + i; //记录 View 的回收位置
                 }
             }
+        }
+```
+__getActiveView(int)__
+```java
+View getActiveView(int position) {
+            // 计算 index
+            int index = position - mFirstActivePosition;
+            final View[] activeViews = mActiveViews;
+            if (index >=0 && index < activeViews.length) {
+                final View match = activeViews[index];
+                activeViews[index] = null;// 获取 View 之后在 mActiveViews[]清除
+                return match;
+            }
+            return null;
         }
 ```
 

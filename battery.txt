@@ -1,0 +1,1368 @@
+Battery History (1% used, 1564 used of 96KB, 35 strings using 2366):
+                    0 (20) RESET:TIME: 2010-01-01-00-00-46
+                    0 (3) 071 status=not-charging health=good plug=none temp=250 volt=4042 charge=2159 +running
+            +12s718ms (2) 071 +screen
+            +12s718ms (3) 071 +wake_lock=-1:"screen" brightness=bright
+            +12s726ms (2) 071 brightness=medium
+            +13s996ms (2) 071 stats=0:"network-stats-enabled"
+            +14s887ms (2) 071 +user=0:"0"
+            +14s887ms (2) 071 +userfg=0:"0"
+            +15s096ms (2) 071 +top=1000:"com.android.settings"
+            +20s870ms (2) 071 -top=1000:"com.android.settings"
+            +20s870ms (2) 071 +top=u0a23:"com.android.provision"
+            +21s148ms (2) 071 -top=u0a23:"com.android.provision"
+            +21s148ms (2) 071 +top=u0a12:"com.android.launcher3"
+            +21s572ms (2) 071 +fg=1000:"com.mediatek.simprocessor"
+            +24s074ms (2) 071 +phone_scanning phone_state=out
+            +26s406ms (2) 071 -top=u0a12:"com.android.launcher3"
+            +26s406ms (3) 071 -phone_scanning phone_state=off +top=u0a21:"com.android.packageinstaller"
+            +27s934ms (2) 071 +phone_scanning phone_state=out
+            +28s224ms (3) 071 -phone_scanning phone_state=in phone_signal_strength=great -fg=1000:"com.mediatek.simprocessor"
+            +29s462ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +29s481ms (2) 071 -fg=1000:"com.mediatek.ppl"
+            +29s528ms (2) 071 -top=u0a21:"com.android.packageinstaller"
+            +29s528ms (3) 071 +audio +top=u0a12:"com.android.launcher3"
+            +29s808ms (2) 071 -audio
+            +30s819ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +30s834ms (2) 071 -fg=1000:"com.mediatek.ppl"
+            +31s073ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +31s092ms (3) 071 +audio -fg=1000:"com.mediatek.ppl"
+            +31s282ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +31s300ms (3) 071 -audio -fg=1000:"com.mediatek.ppl"
+            +31s896ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +31s924ms (2) 071 -fg=1000:"com.mediatek.ppl"
+            +32s103ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +32s121ms (2) 071 -fg=1000:"com.mediatek.ppl"
+            +32s860ms (2) 071 +fg=1000:"com.mediatek.ppl"
+            +32s927ms (2) 071 -fg=1000:"com.mediatek.ppl"
+            +34s528ms (2) 071 -wake_lock -screen
+            +34s562ms (3) 071 +wake_lock=1000:"ActivityManager-Sleep" brightness=dark
+            +35s003ms (1) 071 -wake_lock
+            +35s016ms (2) 071 +wake_lock=u0a25:"show keyguard"
+            +35s185ms (1) 071 -running -wake_lock
+            +46s152ms (4) 071 +running +wake_lock=1000:"PhoneWindowManager.mPowerKeyWakeLock" +sensor +screen brightness=medium wake_reason=0:"unknown" screenwake=1000:"android.policy:POWER"
+            +47s753ms (2) 071 -sensor
+            +50s615ms (2) 071 +audio
+            +50s863ms (2) 071 -audio
+            +53s331ms (2) 071 +wifi_scan +wifi_running +wifi stats=0:"wifi-running"
+            +53s469ms (2) 071 stats=0:"wifi-off"
+            +55s473ms (1) 071 -wifi_scan
+            +56s678ms (2) 071 -top=u0a12:"com.android.launcher3"
+            +56s678ms (2) 071 +wifi_scan +top=1000:"com.android.settings"
+          +1m00s724ms (2) 071 -wifi_scan +audio
+          +1m01s217ms (2) 071 -audio
+          +1m07s490ms (1) 071 +wifi_scan
+          +1m10s971ms (2) 071 -wifi_scan +audio
+          +1m11s477ms (2) 071 -audio wifi_suppl=associated
+          +1m11s949ms (1) 071 wifi_suppl=4-way-handshake
+          +1m12s102ms (1) 071 wifi_signal_strength=3 wifi_suppl=group-handshake
+          +1m12s115ms (2) 071 wifi_suppl=completed +job=1000:"android/com.android.server.pm.BackgroundDexOptService"
+          +1m13s456ms (2) 071 -job=1000:"android/com.android.server.pm.BackgroundDexOptService"
+          +1m15s123ms (1) 071 wifi_signal_strength=4
+          +1m19s602ms (2) 071 +wifi_scan +wifi_radio stats=0:"wifi-state"
+          +1m19s704ms (2) 071 stats=0:"wifi-data: active"
+          +1m19s726ms (2) 071 conn=1:"CONNECTED"
+          +1m23s339ms (3) 071 -wifi_scan +audio -top=1000:"com.android.settings"
+          +1m23s945ms (3) 071 -audio wifi_signal_strength=3 +top=u0a12:"com.android.launcher3"
+          +1m24s504ms (2) 071 +audio
+          +1m24s674ms (2) 071 -audio
+          +1m26s972ms (2) 071 -screen brightness=dark
+          +1m30s024ms (2) 071 +job=1000:"com.mediatek.providers.drm/.ConnectionChangeJobService"
+          +1m30s088ms (2) 071 -job=1000:"com.mediatek.providers.drm/.ConnectionChangeJobService"
+          +1m30s274ms (2) 071 +fg=1000:"com.mediatek.simprocessor"
+          +1m30s898ms (2) 071 -fg=1000:"com.mediatek.simprocessor"
+          +1m35s785ms (1) 071 -running -wake_lock
+          +1m56s157ms (3) 071 +running -wifi_radio wake_reason=0:"unknown" stats=0:"wifi-data: inactive"
+          +1m56s413ms (2) 071 -running wake_reason=0:"Abort:Last active Wakeup Source: bat_percent_notify_lock wakelock"
+          +1m59s154ms (2) 071 +running wake_reason=0:"unknown"
+          +1m59s424ms (2) 071 +wake_lock=1000:"*walarm*:*job.delay*" wake_reason=0:"Abort:Some devices failed to suspend, or early wake event detected"
+          +2m00s093ms (2) 071 -wake_lock +job=1000:"com.mediatek.providers.drm/.ConnectionChangeJobService"
+          +2m00s105ms (3) 071 +wake_lock=1000:"*job*/com.mediatek.providers.drm/.ConnectionChangeJobService" -job=1000:"com.mediatek.providers.drm/.ConnectionChangeJobService"
+          +2m00s110ms (1) 071 -wake_lock
+          +2m01s541ms (2) 071 -running wake_reason=0:"Abort:Last active Wakeup Source: EINT wakelock"
+          +2m17s153ms (2) 071 +running wake_reason=0:"unknown"
+          +2m17s473ms (1) 071 -running
+          +2m42s153ms (2) 071 +running +wifi_radio wake_reason=0:"unknown"
+          +2m42s155ms (2) 071 -wifi_radio stats=0:"wifi-data: active"
+          +2m42s176ms (2) 071 -running stats=0:"wifi-data: inactive"
+          +2m43s153ms (2) 071 +running wake_reason=0:"unknown"
+          +2m43s462ms (1) 071 -running
+          +2m47s153ms (2) 071 +running wake_reason=0:"unknown"
+          +2m47s463ms (1) 071 -running
+          +2m51s153ms (2) 071 +running wake_reason=0:"unknown"
+          +2m51s471ms (1) 071 -running
+          +3m13s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m13s465ms (1) 071 -running
+          +3m14s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m14s463ms (1) 071 -running
+          +3m46s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m46s367ms (2) 071 -running wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +3m48s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m48s371ms (2) 071 -running wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +3m49s155ms (2) 071 +running wake_reason=0:"unknown"
+          +3m49s463ms (2) 071 -running wake_reason=0:"unknown"
+          +3m50s154ms (2) 071 +running wake_reason=0:"unknown"
+          +3m50s368ms (2) 071 -running wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +3m51s152ms (2) 071 +running wake_reason=0:"unknown"
+          +3m51s469ms (1) 071 -running
+          +3m52s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m52s466ms (1) 071 -running
+          +3m53s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m53s463ms (2) 071 -running wake_reason=0:"unknown"
+          +3m56s152ms (2) 071 +running wake_reason=0:"unknown"
+          +3m56s372ms (2) 071 -running wake_reason=0:"Abort:Last active Wakeup Source: bat_percent_notify_lock wakelock"
+          +3m57s153ms (2) 071 +running wake_reason=0:"unknown"
+          +3m57s462ms (2) 071 -running wake_reason=0:"unknown"
+          +4m01s155ms (2) 071 +running wake_reason=0:"unknown"
+          +4m01s567ms (2) 071 -running wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +4m05s152ms (2) 071 +running wake_reason=0:"unknown"
+          +4m05s467ms (1) 071 -running
+          +4m11s153ms (2) 071 +running wake_reason=0:"unknown"
+          +4m11s367ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: ttyC0 "
+          +4m12s518ms (1) 071 -running
+          +4m17s152ms (2) 071 +running wake_reason=0:"unknown"
+          +4m17s372ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +4m17s781ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +4m18s358ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +4m19s423ms (1) 071 -running
+          +4m20s152ms (2) 071 +running wake_reason=0:"unknown"
+          +4m20s466ms (1) 071 -running
+          +4m21s153ms (2) 071 +running wake_reason=0:"unknown"
+          +4m21s462ms (1) 071 -running
+          +4m24s153ms (2) 071 +running wake_reason=0:"unknown"
+          +4m24s464ms (1) 071 -running
+          +4m53s153ms (2) 071 +running wake_reason=0:"unknown"
+          +4m53s468ms (1) 071 -running
+          +5m10s153ms (2) 071 +running wake_reason=0:"unknown"
+          +5m10s467ms (1) 071 -running
+          +5m34s153ms (2) 071 +running +wake_lock=1000:"NetworkTimeUpdateService" wake_reason=0:"unknown"
+          +5m39s223ms (1) 071 -running -wake_lock
+          +5m43s152ms (2) 071 +running wake_reason=0:"unknown"
+          +5m43s468ms (2) 071 wake_reason=0:"unknown"
+          +5m44s700ms (1) 071 -running
+          +5m45s153ms (2) 071 +running wake_reason=0:"unknown"
+          +5m45s461ms (1) 071 -running
+          +5m46s153ms (2) 071 +running wake_reason=0:"unknown"
+          +5m46s463ms (1) 071 -running
+          +5m47s152ms (2) 071 +running wake_reason=0:"unknown"
+          +5m47s462ms (1) 071 -running
+          +5m49s152ms (2) 071 +running wake_reason=0:"unknown"
+          +5m49s469ms (1) 071 -running
+          +5m51s153ms (2) 071 +running wake_reason=0:"unknown"
+          +5m51s466ms (1) 071 -running
+          +5m53s152ms (2) 071 +running wake_reason=0:"unknown"
+          +5m53s494ms (1) 071 -running
+          +5m58s184ms (2) 071 +running wake_reason=0:"unknown"
+          +5m58s524ms (1) 071 -running
+          +6m00s178ms (2) 071 +running wake_reason=0:"unknown"
+          +6m00s418ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +6m00s731ms (2) 071 -running wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +6m02s152ms (2) 071 +running wake_reason=0:"unknown"
+          +6m02s464ms (1) 071 -running
+          +6m04s152ms (2) 071 +running wake_reason=0:"unknown"
+          +6m04s462ms (1) 071 -running
+          +6m07s152ms (2) 071 +running wake_reason=0:"unknown"
+          +6m07s468ms (1) 071 -running
+          +6m21s153ms (2) 071 +running wake_reason=0:"unknown"
+          +6m21s467ms (1) 071 -running
+          +6m22s152ms (2) 071 +running wake_reason=0:"unknown"
+          +6m22s463ms (1) 071 -running
+          +6m24s153ms (2) 071 +running wake_reason=0:"unknown"
+          +6m24s468ms (1) 071 -running
+          +6m26s152ms (2) 071 +running wake_reason=0:"unknown"
+          +6m26s467ms (1) 071 -running
+          +7m00s153ms (2) 071 +running wake_reason=0:"unknown"
+          +7m00s463ms (2) 071 wake_reason=0:"unknown"
+          +7m00s773ms (2) 071 wake_reason=0:"unknown"
+          +7m00s994ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +7m01s311ms (2) 071 wake_reason=0:"Abort:Last active Wakeup Source: dlpt_notify_lock wakelock"
+          +7m01s831ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +7m02s794ms (2) 071 wake_reason=0:"Abort:Pending Wakeup Sources: WLAN AHB ISR "
+          +7m04s644ms (1) 071 -running
+          +7m07s152ms (2) 071 +running wake_reason=0:"unknown"
+          +7m08s414ms (1) 071 -running
+          +7m09s155ms (2) 071 +running wake_reason=0:"unknown"
+          +7m09s462ms (1) 071 -running
+          +7m11s152ms (2) 071 +running wake_reason=0:"unknown"
+          +7m11s463ms (1) 071 -running
+          +7m13s153ms (2) 071 +running wake_reason=0:"unknown"
+          +7m13s464ms (1) 071 -running
+          +7m31s150ms (4) 071 +running +wake_lock=-1:"screen" +wifi_scan +screen brightness=medium wake_reason=0:"unknown" screenwake=1000:"android.server.power:POWER"
+          +7m31s704ms (2) 071 stats=0:"battery-state"
+          +7m31s760ms (3) 071 status=charging plug=usb volt=4041 +plugged
+          +7m32s477ms (10) TIME: 2018-02-11-08-34-42
+          +7m35s308ms (2) 071 stats=0:"dump"
+
+Per-PID Stats:
+  PID 0 wake time: +1s470ms
+  PID 764 wake time: +26s481ms
+  PID 2682 wake time: +68ms
+  PID 764 wake time: +79ms
+  PID 1209 wake time: +2s149ms
+  PID 1226 wake time: +9s639ms
+  PID 764 wake time: +3ms
+  PID 764 wake time: +7ms
+  PID 0 wake time: +19s895ms
+  PID 764 wake time: +11ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +22ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +4ms
+  PID 764 wake time: +8ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +2s111ms
+  PID 764 wake time: +87ms
+  PID 2115 wake time: +21ms
+  PID 764 wake time: +4ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +9ms
+  PID 764 wake time: +12ms
+  PID 764 wake time: +24ms
+  PID 1732 wake time: +5s749ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +1s403ms
+  PID 764 wake time: +23ms
+  PID 2026 wake time: +299ms
+  PID 2539 wake time: +95ms
+  PID 764 wake time: +358ms
+  PID 764 wake time: +7ms
+  PID 764 wake time: +62ms
+  PID 1078 wake time: +330ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +7ms
+  PID 764 wake time: +4ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +13ms
+  PID 764 wake time: +3ms
+  PID 764 wake time: +37ms
+  PID 764 wake time: +19ms
+  PID 764 wake time: +8ms
+  PID 764 wake time: +9ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +7ms
+  PID 764 wake time: +11ms
+  PID 764 wake time: +11ms
+  PID 764 wake time: +3ms
+  PID 764 wake time: +9ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +4ms
+  PID 764 wake time: +13ms
+  PID 764 wake time: +49s540ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +516ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +6ms
+  PID 764 wake time: +9ms
+  PID 764 wake time: +7ms
+  PID 764 wake time: +8ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +3ms
+  PID 764 wake time: +8ms
+  PID 764 wake time: +10ms
+  PID 764 wake time: +22ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +5ms
+  PID 764 wake time: +12ms
+  PID 764 wake time: +7ms
+  PID 764 wake time: +8ms
+
+Daily stats:
+  Current start time: 2010-01-01-00-00-41
+  Next min deadline: 2010-01-02-01-00-00
+  Next max deadline: 2010-01-02-03-00-00
+
+Statistics since last charge:
+  System starts: 1, currently on battery: false
+  Estimated battery capacity: 1000 mAh
+  Time on battery: 7m 31s 760ms (98.0%) realtime, 2m 3s 758ms (27.4%) uptime
+  Time on battery screen off: 6m 16s 256ms (83.3%) realtime, 48s 253ms (10.7%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 7m 41s 72ms realtime, 2m 13s 70ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Start clock time: 2018-02-11-08-27-04
+  Screen on: 1m 2s 786ms (13.9%) 3x, Interactive: 1m 2s 799ms (13.9%)
+  Screen brightnesses:
+    dark 31ms (0.0%)
+    medium 1m 2s 747ms (99.9%)
+    bright 2ms (0.0%)
+  Connectivity changes: 1
+  Total partial wakelock time: 14s 506ms
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 7m 31s 760ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       very poor (less than -128dBm):  3s 126ms (0.7%) 
+       great (greater than -98dBm):  7m 3s 536ms (93.8%) 
+     Cellular Sleep time:  7m 21s 503ms (97.7%)
+     Cellular Idle time:   10s 257ms (2.3%)
+     Cellular Rx time:     0ms (0.0%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+  Wifi Statistics:
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states:
+       disconn 26s 203ms (5.8%) 
+       sta 6m 12s 157ms (82.4%) 
+     Wifi supplicant states:
+       associating 150ms (0.0%) 
+       associated 45ms (0.0%) 
+       4-way-handshake 153ms (0.0%) 
+       group-handshake 13ms (0.0%) 
+       completed 6m 19s 645ms (84.0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 6m 10s 613ms (82.0%) 
+         great (greater than -55dBm): 9s 37ms (2.0%) 
+     WiFi Sleep time:  7m 31s 760ms (100.0%)
+     WiFi Idle time:   0ms (0.0%)
+     WiFi Rx time:     0ms (0.0%)
+     WiFi Tx time:     0ms (0.0%)
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Sleep time:  7m 31s 760ms (100.0%)
+     Bluetooth Idle time:   0ms (0.0%)
+     Bluetooth Rx time:     0ms (0.0%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 1000, Computed drain: 0.0428, actual drain: 0
+    Idle: 0.0125 Excluded from smearing
+    Cell standby: 0.0120 ( radio=0.0120 ) Excluded from smearing
+    Wifi: 0.0112 ( cpu=0.00000972 wifi=0.0112 ) Including smearing: 0.0175 ( proportional=0.00626 )
+    Screen: 0.00262 Excluded from smearing
+    Uid 1000: 0.00162 ( cpu=0.00144 wifi=0.000186 ) Excluded from smearing
+    Uid 0: 0.000682 ( cpu=0.000682 ) Excluded from smearing
+    Uid u0a25: 0.000411 ( cpu=0.000411 sensor=0.00000042 ) Excluded from smearing
+    Uid u0a12: 0.000370 ( cpu=0.000370 ) Including smearing: 0.000575 ( proportional=0.000206 )
+    Uid 1001: 0.000256 ( cpu=0.000256 ) Excluded from smearing
+    Uid u0a31000: 0.000149 ( cpu=0.000149 ) Including smearing: 0.000232 ( proportional=0.0000830 )
+    Uid u0a50: 0.000115 ( cpu=0.000115 ) Including smearing: 0.000179 ( proportional=0.0000640 )
+    Uid u0a55: 0.000111 ( cpu=0.000111 ) Including smearing: 0.000173 ( proportional=0.0000619 )
+    Uid 1041: 0.000104 ( cpu=0.000104 ) Excluded from smearing
+    Uid u0a5: 0.0000890 ( cpu=0.0000890 ) Including smearing: 0.000139 ( proportional=0.0000496 )
+    Uid 1036: 0.0000658 ( cpu=0.0000658 ) Excluded from smearing
+    Uid u0a18: 0.0000424 ( cpu=0.0000424 ) Excluded from smearing
+    Uid u0a40069: 0.0000331 ( cpu=0.0000331 ) Including smearing: 0.0000515 ( proportional=0.0000184 )
+    Uid 1046: 0.0000294 ( cpu=0.0000294 ) Excluded from smearing
+    Uid u0a21: 0.0000238 ( cpu=0.0000238 ) Including smearing: 0.0000370 ( proportional=0.0000132 )
+    Uid u0a40068: 0.0000203 ( cpu=0.0000203 ) Including smearing: 0.0000316 ( proportional=0.0000113 )
+    Uid u0a52: 0.0000194 ( cpu=0.0000194 ) Including smearing: 0.0000303 ( proportional=0.0000108 )
+    Uid 1003: 0.0000192 ( cpu=0.0000192 ) Excluded from smearing
+    Uid u0a40070: 0.0000186 ( cpu=0.0000186 ) Including smearing: 0.0000290 ( proportional=0.0000104 )
+    Uid u0a22: 0.0000146 ( cpu=0.0000146 ) Including smearing: 0.0000227 ( proportional=0.00000813 )
+    Uid u0a31001: 0.0000119 ( cpu=0.0000119 ) Including smearing: 0.0000186 ( proportional=0.00000665 )
+    Uid u0a40066: 0.0000117 ( cpu=0.0000117 ) Including smearing: 0.0000182 ( proportional=0.00000650 )
+    Uid u0a40067: 0.0000117 ( cpu=0.0000117 ) Including smearing: 0.0000182 ( proportional=0.00000650 )
+    Uid u0a40025: 0.00000972 ( cpu=0.00000972 ) Including smearing: 0.0000151 ( proportional=0.00000542 )
+    Uid 1013: 0.00000958 ( cpu=0.00000958 ) Excluded from smearing
+    Uid 1040: 0.00000861 ( cpu=0.00000861 ) Excluded from smearing
+    Uid u0a13: 0.00000750 ( cpu=0.00000750 ) Excluded from smearing
+    Uid 1047: 0.00000667 ( cpu=0.00000667 ) Excluded from smearing
+    Uid u0a17: 0.00000667 ( cpu=0.00000667 ) Including smearing: 0.0000104 ( proportional=0.00000371 )
+    Uid u0a48: 0.00000556 ( cpu=0.00000556 ) Including smearing: 0.00000865 ( proportional=0.00000310 )
+    Bluetooth: 0.00000556 ( cpu=0.00000556 ) Including smearing: 0.00000865 ( proportional=0.00000310 )
+    Uid u0a51: 0.00000417 ( cpu=0.00000417 ) Including smearing: 0.00000649 ( proportional=0.00000232 )
+    Uid u0a40020: 0.00000333 ( cpu=0.00000333 ) Including smearing: 0.00000519 ( proportional=0.00000186 )
+    Uid u0a6: 0.00000306 ( cpu=0.00000306 ) Including smearing: 0.00000476 ( proportional=0.00000170 )
+    Uid u0a23: 0.00000306 ( cpu=0.00000306 ) Including smearing: 0.00000476 ( proportional=0.00000170 )
+    Uid u0a9: 0.00000278 ( cpu=0.00000278 ) Including smearing: 0.00000433 ( proportional=0.00000155 )
+    Uid u0a16: 0.00000250 ( cpu=0.00000250 ) Including smearing: 0.00000389 ( proportional=0.00000139 )
+    Uid u0a62: 0.00000250 ( cpu=0.00000250 ) Including smearing: 0.00000389 ( proportional=0.00000139 )
+    Uid u0a14: 0.00000222 ( cpu=0.00000222 ) Including smearing: 0.00000346 ( proportional=0.00000124 )
+    Uid u0a60: 0.00000222 ( cpu=0.00000222 ) Including smearing: 0.00000346 ( proportional=0.00000124 )
+    Uid 1019: 0.00000111 ( cpu=0.00000111 ) Excluded from smearing
+    Uid 1023: 0.00000111 ( cpu=0.00000111 ) Excluded from smearing
+    Uid 2000: 0.00000097 ( cpu=0.00000097 ) Excluded from smearing
+    Uid u0a36: 0.00000097 ( cpu=0.00000097 ) Including smearing: 0.00000151 ( proportional=0.00000054 )
+    Uid 1021: 0.00000083 ( cpu=0.00000083 ) Excluded from smearing
+    Uid 1027: 0.00000083 ( cpu=0.00000083 ) Excluded from smearing
+    Uid 1017: 0.00000028 ( cpu=0.00000028 ) Excluded from smearing
+
+  All kernel wake locks:
+  Kernel Wake lock PowerManagerService.WakeLocks   : 14s 510ms (6 times) realtime
+  Kernel Wake lock WLAN AHB ISR                    : 14s 137ms (100 times) realtime
+  Kernel Wake lock ttyC0                           : 6s 694ms (6 times) realtime
+  Kernel Wake lock alarmtimer                      : 1s 997ms (1 times) realtime
+  Kernel Wake lock NETLINK                         : 1s 404ms (172 times) realtime
+  Kernel Wake lock PowerManagerService.Display     : 919ms (2 times) realtime
+  Kernel Wake lock pmicAuxadc irq wakelock         : 833ms (176 times) realtime
+  Kernel Wake lock WLAN Timer                      : 636ms (73 times) realtime
+  Kernel Wake lock dlpt_notify_lock wakelock       : 511ms (5 times) realtime
+  Kernel Wake lock WLAN TX THREAD                  : 493ms (500 times) realtime
+  Kernel Wake lock battery suspend wakelock        : 481ms (1 times) realtime
+  Kernel Wake lock pmicThread_lock_mt6328 wakelock : 454ms (3 times) realtime
+  Kernel Wake lock PowerManagerService.Broadcasts  : 397ms (2 times) realtime
+  Kernel Wake lock MT662x                          : 256ms (5 times) realtime
+  Kernel Wake lock EINT wakelock                   : 207ms (3 times) realtime
+  Kernel Wake lock alarm                           : 108ms (12 times) realtime
+  Kernel Wake lock wmtFuncCtrl                     : 61ms (2 times) realtime
+  Kernel Wake lock event1                          : 33ms (2 times) realtime
+  Kernel Wake lock USB suspend lock                : 31ms (1 times) realtime
+  Kernel Wake lock KeyEvents                       : 14ms (12 times) realtime
+  Kernel Wake lock eventpoll                       : 2ms (174 times) realtime
+  Kernel Wake lock mt-rtc                          : 2ms (1 times) realtime
+  Kernel Wake lock battery                         : 2ms (1 times) realtime
+  Kernel Wake lock usb                             : 1ms (1 times) realtime
+
+  All partial wake locks:
+  Wake lock u0a50 *alarm*: 6s 901ms (0 times) max=8743 actual=8743 realtime
+  Wake lock 1000 NetworkTimeUpdateService: 6s 76ms (1 times) max=5059 actual=7877 realtime
+  Wake lock u0a18 MediaScannerService: 468ms (1 times) max=1405 actual=1405 realtime
+  Wake lock 1000 ActivityManager-Sleep: 426ms (2 times) max=441 actual=474 realtime
+  Wake lock u0a25 show keyguard: 209ms (2 times) max=169 actual=330 realtime
+  Wake lock 1041 AudioMix: 175ms (0 times) max=629 actual=629 realtime
+  Wake lock u0a22 StartingAlertService: 89ms (2 times) max=140 actual=276 realtime
+  Wake lock u0a13 *alarm*: 70ms (1 times) max=70 realtime
+  Wake lock 1001 RILJ: 28ms (2 times) max=42 actual=80 realtime
+  Wake lock 1000 *alarm*: 28ms (2 times) max=45 actual=46 realtime
+  Wake lock 1000 *job*/com.mediatek.providers.drm/.ConnectionChangeJobService: 16ms (2 times) max=22 actual=27 realtime
+  Wake lock 1000 PhoneWindowManager.mPowerKeyWakeLock: 9ms (1 times) max=9 realtime
+  Wake lock u0a13 CalendarReceiver_Provider: 5ms (1 times) max=21 actual=21 realtime
+  Wake lock 1000 WifiSuspend: 4ms (1 times) max=21 actual=21 realtime
+
+  All wakeup reasons:
+  Wakeup reason unknown: 18s 755ms (56 times) realtime
+  Wakeup reason Abort:Pending Wakeup Sources: WLAN AHB ISR : 7s 680ms (11 times) realtime
+  Wakeup reason Abort:Last active Wakeup Source: bat_percent_notify_lock wakelock: 405ms (1 times) realtime
+  Wakeup reason Abort:Some devices failed to suspend, or early wake event detected realtime
+  Wakeup reason Abort:Last active Wakeup Source: EINT wakelock realtime
+  Wakeup reason Abort:Last active Wakeup Source: dlpt_notify_lock wakelock realtime
+  Wakeup reason Abort:Pending Wakeup Sources: ttyC0  realtime
+
+  0:
+    Total cpu time: u=2s 765ms s=26s 145ms 
+    Proc mtk charger_hv_:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc android.hardware.wifi@1.0-service:
+      CPU: 20ms usr + 50ms krn ; 0ms fg
+    Proc btif_rxd:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc kworker/u9:4:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/u9:3:
+      CPU: 0ms usr + 2s 190ms krn ; 0ms fg
+    Proc kworker/u9:2:
+      CPU: 0ms usr + 1s 330ms krn ; 0ms fg
+    Proc kworker/u9:1:
+      CPU: 0ms usr + 1s 440ms krn ; 0ms fg
+    Proc kworker/u9:0:
+      CPU: 0ms usr + 1s 540ms krn ; 0ms fg
+    Proc kworker/u8:6:
+      CPU: 0ms usr + 180ms krn ; 0ms fg
+    Proc kworker/u8:5:
+      CPU: 0ms usr + 180ms krn ; 0ms fg
+    Proc kworker/u8:4:
+      CPU: 0ms usr + 430ms krn ; 0ms fg
+    Proc kworker/u8:3:
+      CPU: 0ms usr + 290ms krn ; 0ms fg
+    Proc kworker/u8:2:
+      CPU: 0ms usr + 660ms krn ; 0ms fg
+    Proc kworker/u8:1:
+      CPU: 0ms usr + 360ms krn ; 0ms fg
+    Proc kworker/u8:0:
+      CPU: 0ms usr + 410ms krn ; 0ms fg
+    Proc kworker/3:1H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/3:0H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/2:1H:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/2:0H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/1:1H:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/1:0H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/0:1H:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc display_check_a:
+      CPU: 0ms usr + 340ms krn ; 0ms fg
+    Proc bat_thread_kthr:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc ext4lazyinit:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc migration/3:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc migration/2:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc migration/1:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+    Proc migration/0:
+      CPU: 0ms usr + 100ms krn ; 0ms fg
+    Proc ksoftirqd/3:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc ksoftirqd/2:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc ksoftirqd/1:
+      CPU: 0ms usr + 50ms krn ; 0ms fg
+    Proc ksoftirqd/0:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+    Proc mtkrild:
+      CPU: 240ms usr + 260ms krn ; 0ms fg
+    Proc mtk-tpd:
+      CPU: 0ms usr + 140ms krn ; 0ms fg
+    Proc tx_thread:
+      CPU: 0ms usr + 210ms krn ; 0ms fg
+    Proc ppl_agent:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc mmcqd/0:
+      CPU: 0ms usr + 3s 430ms krn ; 0ms fg
+    Proc android.hardware.audio@2.0-service-mediatek:
+      CPU: 1s 550ms usr + 860ms krn ; 0ms fg
+    Proc dlpt_notify_thr:
+      CPU: 0ms usr + 910ms krn ; 0ms fg
+    Proc healthd:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+    Proc kworker/3:1:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/3:0:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/2:1:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc kworker/1:1:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/1:0:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/0:3:
+      CPU: 0ms usr + 150ms krn ; 0ms fg
+    Proc kworker/0:0:
+      CPU: 0ms usr + 370ms krn ; 0ms fg
+    Proc hps_main:
+      CPU: 0ms usr + 470ms krn ; 0ms fg
+    Proc installd:
+      CPU: 1s 700ms usr + 1s 820ms krn ; 0ms fg
+    Proc rcu_sched:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc rcu_preempt:
+      CPU: 0ms usr + 310ms krn ; 0ms fg
+    Proc /init:
+      CPU: 480ms usr + 190ms krn ; 0ms fg
+    Proc wfca:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc vold:
+      CPU: 50ms usr + 430ms krn ; 0ms fg
+    Proc netd:
+      CPU: 10ms usr + 100ms krn ; 0ms fg
+    Proc lmkd:
+      CPU: 60ms usr + 170ms krn ; 0ms fg
+    Proc adbd:
+      CPU: 20ms usr + 50ms krn ; 0ms fg
+    Proc pbm:
+      CPU: 0ms usr + 120ms krn ; 0ms fg
+    Proc frame_update_wo:
+      CPU: 0ms usr + 300ms krn ; 0ms fg
+    Proc dmcrypt_write:
+      CPU: 0ms usr + 240ms krn ; 0ms fg
+    Proc mtk_wmtd:
+      CPU: 0ms usr + 1s 610ms krn ; 0ms fg
+    Proc aee_aedv:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc display_esd_che:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kswapd0:
+      CPU: 0ms usr + 3s 310ms krn ; 0ms fg
+    Proc ueventd:
+      CPU: 100ms usr + 50ms krn ; 0ms fg
+    Proc zygote:
+      CPU: 220ms usr + 750ms krn ; 0ms fg
+    Proc epdg_wod:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc iptables-restore:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+    Proc jbd2/dm-0-8:
+      CPU: 0ms usr + 360ms krn ; 0ms fg
+    Proc mtkmal:
+      CPU: 90ms usr + 110ms krn ; 0ms fg
+    Proc aee_aed:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc cfinteractive:
+      CPU: 0ms usr + 150ms krn ; 0ms fg
+    Proc ip6tables-restore:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Proc present_fence_w:
+      CPU: 0ms usr + 210ms krn ; 0ms fg
+    Proc volte_ua:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc ion_mm_heap:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+  1000:
+    Wifi Running: 0ms (0.0%)
+    Full Wifi Lock: 0ms (0.0%)
+    Wifi Scan (blamed): 6s 712ms (1.5%) 2x
+    Wifi Scan (actual): 6s 712ms (1.5%) 2x
+    Background Wifi Scan: 0ms (0.0%) 0x
+    User activity: 5 other, 6 button, 25 touch
+    Wake lock ActivityManager-Sleep: 426ms partial (2 times) max=441 actual=474 realtime
+    Wake lock WifiSuspend: 4ms partial (1 times) max=21 actual=21 realtime
+    Wake lock *dexopt* realtime
+    Wake lock WiredAccessoryManager realtime
+    Wake lock *alarm*: 28ms partial (2 times) max=45 actual=46 realtime
+    Wake lock *job*/com.mediatek.providers.drm/.ConnectionChangeJobService: 16ms partial (2 times) max=22 actual=27 realtime
+    Wake lock PhoneWindowManager.mPowerKeyWakeLock: 9ms partial (1 times) max=9 realtime
+    Wake lock AudioMix realtime
+    Wake lock AlarmAlertWakeLock realtime
+    Wake lock *vibrator* realtime
+    Wake lock *launch* realtime
+    Wake lock NetworkStats realtime
+    Wake lock GnssLocationProvider realtime
+    Wake lock NetworkTimeUpdateService: 6s 76ms partial (1 times) max=5059 actual=7877 realtime
+    Wake lock *job*/android/com.android.server.pm.BackgroundDexOptService realtime
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock SCREEN_FROZEN realtime
+    TOTAL wake: 6s 559ms blamed partial, 8s 364ms actual partial realtime
+    Job android/com.android.server.pm.BackgroundDexOptService: 1s 70ms realtime (1 times)
+    Job com.mediatek.providers.drm/.ConnectionChangeJobService: 74ms realtime (2 times)
+    Job Completions android/com.android.server.pm.BackgroundDexOptService: canceled(1x)
+    Job Completions com.mediatek.providers.drm/.ConnectionChangeJobService: canceled(2x)
+    Audio: 1s 549ms realtime (7 times)
+    Vibrator: 160ms realtime (8 times)
+    Foreground activities: 32s 659ms realtime (3 times)
+    Fg Service for: 7m 31s 760ms 
+    Total running: 7m 31s 760ms 
+    Total cpu time: u=48s 985ms s=34s 160ms 
+    Proc stp_dump3:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc com.android.deskclock:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      2 starts
+    Proc volte_imcb:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+    Proc wmt_launcher:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc netdagent:
+      CPU: 10ms usr + 40ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 700ms usr + 1s 800ms krn ; 0ms fg
+    Proc vtservice_hidl:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.android.settings:
+      CPU: 9s 550ms usr + 2s 930ms krn ; 12s 410ms fg
+      1 starts
+    Proc teei_daemon:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.mediatek.thermalmanager:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc android.hardware.sensors@1.0-service-mediatek:
+      CPU: 10ms usr + 80ms krn ; 0ms fg
+    Proc com.mediatek.atci.service:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc vendor.mediatek.hardware.pq@2.0-service:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+    Proc android.hardware.graphics.composer@2.1-service:
+      CPU: 4s 870ms usr + 4s 90ms krn ; 0ms fg
+    Proc android.hidl.allocator@1.0-service:
+      CPU: 10ms usr + 40ms krn ; 0ms fg
+    Proc com.android.keychain:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+      2 starts
+    Proc com.android.cellbroadcastreceiver:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc aal:
+      CPU: 690ms usr + 1s 50ms krn ; 0ms fg
+    Proc sn:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.duraspeed:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc ged_srv:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+    Proc com.mediatek.batterywarning:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc surfaceflinger:
+      CPU: 10s 460ms usr + 8s 700ms krn ; 0ms fg
+    Proc com.mediatek.providers.drm:
+      CPU: 40ms usr + 10ms krn ; 0ms fg
+      1 starts
+    Proc com.android.settings:CryptKeeper:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc vtservice:
+      CPU: 30ms usr + 60ms krn ; 0ms fg
+    Proc merged_hal_service:
+      CPU: 330ms usr + 460ms krn ; 0ms fg
+    Proc com.mediatek.bluetooth.dtt:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+      1 starts
+    Proc com.mediatek.security:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc system:
+      CPU: 26s 460ms usr + 15s 350ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 290ms usr + 130ms krn ; 0ms fg
+    Proc WebViewLoader-armeabi-v7a:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc volte_stack:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+    Proc thermal:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc com.mediatek.simprocessor:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      2 starts
+    Proc com.valmul.defcontainer:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc batterywarning:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc mobile_log_d:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.ppl:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.android.location.fused:
+      Service com.android.location.fused.FusedLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.settings:
+      Service com.mediatek.settings.sim.SimSelectService:
+        Created for: 1m 39s 460ms uptime
+        Starts: 1, launches: 1
+    Apk com.android.keychain:
+      Service com.android.keychain.KeyChainService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 2
+    Apk com.android.server.telecom:
+      Service com.android.server.telecom.components.TelecomService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.telecom.components.BluetoothPhoneService:
+        Created for: 1m 47s 895ms uptime
+        Starts: 1, launches: 1
+    Apk com.mediatek.nlpservice:
+      Service com.mediatek.nlpservice.NlpService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.mediatek.duraspeed:
+      Service com.mediatek.duraspeed.view.RunningBoosterAppService:
+        Created for: 698ms uptime
+        Starts: 1, launches: 1
+    Apk com.mediatek.providers.drm:
+      Service com.mediatek.providers.drm.ConnectionChangeJobService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 2
+      Service com.mediatek.providers.drm.DrmSyncTimeService:
+        Created for: 5s 142ms uptime
+        Starts: 1, launches: 1
+    Apk android:
+      Wakeup alarm *walarm*:MtkDhcp6Client.wlan0.TIMEOUT: 1 times
+      Wakeup alarm *walarm*:*job.delay*: 1 times
+      Wakeup alarm *walarm*:MtkDhcp6Client.wlan0.KICK: 1 times
+      Wakeup alarm *walarm*:WriteBufferAlarm: 1 times
+      Wakeup alarm *walarm*:*job.deadline*: 0 times
+      Wakeup alarm *walarm*:DhcpClient.wlan0.KICK: 0 times
+      Service android.hardware.location.GeofenceHardwareService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.pm.BackgroundDexOptService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.content.SyncJobService:
+        Created for: 1m 48s 68ms uptime
+        Starts: 1, launches: 1
+      Service com.android.internal.backup.LocalTransportService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.mediatek.simprocessor:
+      Service com.mediatek.simprocessor.SimProcessorService:
+        Created for: 7s 501ms uptime
+        Starts: 2, launches: 2
+    Apk com.mediatek.location.lppe.main:
+      Service com.mediatek.location.lppe.main.LPPeServiceWrapper:
+        Created for: 1m 19s 224ms uptime
+        Starts: 1, launches: 1
+    Apk com.mediatek.ppl:
+      Service com.mediatek.ppl.PplService:
+        Created for: 253ms uptime
+        Starts: 7, launches: 7
+  1001:
+    Wake lock RILJ_ACK_WL realtime
+    Wake lock *dexopt* realtime
+    Wake lock CallerInfoCache realtime
+    Wake lock MtkGsmInboundSmsHandler realtime
+    Wake lock IMS_RILA realtime
+    Wake lock IMSRIL_ACK_WL realtime
+    Wake lock RILJ: 28ms partial (2 times) max=42 actual=80 realtime
+    Wake lock CdmaServiceCategoryProgramHandler realtime
+    Wake lock MtkCdmaInboundSmsHandler realtime
+    Wake lock MtkGsmCellBroadcastHandler realtime
+    Wake lock SmsCommonEventHelp realtime
+    Wake lock CellBroadcastHandler realtime
+    TOTAL wake: 28ms blamed partial, 80ms actual partial realtime
+    Fg Service for: 7m 16s 663ms 
+    Cached for: 200ms 
+    Total running: 7m 16s 863ms 
+    Total cpu time: u=7s 665ms s=1s 765ms 
+    Proc com.android.phone:
+      CPU: 2s 810ms usr + 940ms krn ; 0ms fg
+      1 starts
+    Proc ccci_fsd:
+      CPU: 20ms usr + 40ms krn ; 0ms fg
+    Proc gsm0710muxd:
+      CPU: 330ms usr + 150ms krn ; 0ms fg
+    Proc rilproxy:
+      CPU: 200ms usr + 80ms krn ; 0ms fg
+    Proc ccci_rpcd:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.engineermode:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc vendor.mediatek.hardware.wfo@1.0-service:
+      CPU: 40ms usr + 30ms krn ; 0ms fg
+    Proc vendor.mediatek.hardware.imsa@1.0-service:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.ims:
+      CPU: 380ms usr + 150ms krn ; 0ms fg
+      1 starts
+    Apk com.android.phone:
+      Service com.android.phone.TelephonyDebugService:
+        Created for: 1m 39s 902ms uptime
+        Starts: 1, launches: 1
+    Apk com.android.stk:
+      Service com.android.stk.StkAppService:
+        Created for: 46s 545ms uptime
+        Starts: 2, launches: 2
+    Apk com.mediatek.wfo.impl:
+      Service com.mediatek.wfo.impl.WfoService:
+        Created for: 1m 48s 477ms uptime
+        Starts: 1, launches: 1
+    Apk com.mediatek.gba:
+      Service com.mediatek.gba.GbaService:
+        Created for: 1m 47s 685ms uptime
+        Starts: 1, launches: 1
+  1002:
+    Wake lock *dexopt* realtime
+    Foreground for: 798ms 
+    Background for: 397ms 
+    Cached for: 1s 19ms 
+    Total running: 2s 214ms 
+    Total cpu time: u=120ms s=80ms 
+    Proc com.android.bluetooth:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.android.bluetooth:
+      Service com.android.bluetooth.btservice.AdapterService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  1003:
+    Total cpu time: u=350ms s=340ms 
+    Proc bootanimation:
+      CPU: 390ms usr + 270ms krn ; 0ms fg
+  1010:
+    Wifi Running: 0ms (0.0%)
+    Full Wifi Lock: 0ms (0.0%)
+    Wifi Scan (blamed): 5s 885ms (1.3%) 3x
+    Wifi Scan (actual): 5s 885ms (1.3%) 3x
+    Background Wifi Scan: 0ms (0.0%) 0x
+    Total cpu time: u=220ms s=230ms 
+    Proc wpa_supplicant:
+      CPU: 20ms usr + 30ms krn ; 0ms fg
+    Proc wifi2agps:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc wificond:
+      CPU: 30ms usr + 20ms krn ; 0ms fg
+  1013:
+    Total cpu time: u=190ms s=155ms 
+    Proc mediaserver:
+      CPU: 260ms usr + 210ms krn ; 0ms fg
+  1017:
+    Total cpu time: u=0ms s=10ms 
+    Proc keystore:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  1019:
+    Total cpu time: u=20ms s=20ms 
+    Proc drmserver:
+      CPU: 40ms usr + 40ms krn ; 0ms fg
+  1021:
+    Total cpu time: u=0ms s=30ms 
+    Proc mnld:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc mtk_agpsd:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+  1023:
+    Total cpu time: u=20ms s=20ms 
+    (nothing executed)
+  1027:
+    Wake lock *dexopt* realtime
+    Background for: 60ms 
+    Cached for: 49ms 
+    Total running: 109ms 
+    Total cpu time: u=10ms s=20ms 
+    Proc com.android.nfc:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  1036:
+    Total cpu time: u=1s 255ms s=1s 205ms 
+    Proc logd:
+      CPU: 1s 320ms usr + 1s 310ms krn ; 0ms fg
+  1040:
+    Total cpu time: u=275ms s=35ms 
+    Proc media.extractor:
+      CPU: 510ms usr + 60ms krn ; 0ms fg
+  1041:
+    Wake lock AudioMix: 175ms partial (0 times) max=629 actual=629, 629ms background partial (0 times) max=629 realtime
+    Total cpu time: u=2s 400ms s=1s 425ms 
+    Proc audioserver:
+      CPU: 860ms usr + 610ms krn ; 0ms fg
+  1046:
+    Total cpu time: u=460ms s=600ms 
+    Proc media.codec:
+      CPU: 520ms usr + 680ms krn ; 0ms fg
+  1047:
+    Total cpu time: u=100ms s=140ms 
+    Proc camerahalserver:
+      CPU: 90ms usr + 140ms krn ; 0ms fg
+    Proc cameraserver:
+      CPU: 30ms usr + 20ms krn ; 0ms fg
+  2000:
+    Wake lock *dexopt* realtime
+    Total cpu time: u=20ms s=35ms 
+    Proc emdlogger1:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  u0a4:
+    Wake lock *dexopt* realtime
+  u0a5:
+    Wake lock *dexopt* realtime
+    Foreground services: 2s 607ms realtime (3 times)
+    Fg Service for: 6s 205ms 
+    Background for: 66ms 
+    Cached for: 7m 3s 880ms 
+    Total running: 7m 10s 151ms 
+    Total cpu time: u=2s 710ms s=565ms 
+    Proc android.process.acore:
+      CPU: 2s 690ms usr + 600ms krn ; 0ms fg
+      1 starts
+  u0a6:
+    Wake lock *dexopt* realtime
+    Background for: 7m 10s 190ms 
+    Cached for: 70ms 
+    Total running: 7m 10s 260ms 
+    Total cpu time: u=70ms s=40ms 
+    Proc com.baidu.map.location:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.baidu.map.location:
+      Service com.baidu.map.location.BaiduNetworkLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a7:
+    Wake lock *dexopt* realtime
+  u0a9:
+    Wake lock *dexopt* realtime
+    Foreground for: 464ms 
+    Background for: 32ms 
+    Cached for: 53s 131ms 
+    Total running: 53s 627ms 
+    Total cpu time: u=50ms s=50ms 
+    Proc android.ext.services:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk android.ext.services:
+      Service android.ext.services.storage.CacheQuotaServiceImpl:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a10:
+    Wake lock *dexopt* realtime
+  u0a11:
+    Wake lock *dexopt* realtime
+  u0a12:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+    Foreground activities: 22s 163ms realtime (4 times) (running)
+    Top for: 24s 638ms 
+    Top Sleeping for: 6m 17s 770ms 
+    Cached for: 28s 262ms 
+    Total running: 7m 10s 670ms 
+    Total cpu time: u=9s 705ms s=3s 880ms 
+    Proc com.android.launcher3:
+      CPU: 9s 740ms usr + 3s 840ms krn ; 11s 950ms fg
+      1 starts
+  u0a13:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm*: 70ms partial (1 times) max=70, 70ms background partial (1 times) max=70 realtime
+    Wake lock CalendarReceiver_Provider: 5ms partial (1 times) max=21 actual=21, 21ms background partial (1 times) max=21 realtime
+    TOTAL wake: 75ms blamed partial, 91ms actual partial, 91ms actual background partial realtime
+    Background for: 338ms 
+    Cached for: 6m 59s 100ms 
+    Total running: 6m 59s 438ms 
+    Total cpu time: u=220ms s=70ms 
+    Proc com.android.providers.calendar:
+      CPU: 60ms usr + 20ms krn ; 0ms fg
+      1 starts
+    Apk com.android.providers.calendar:
+      Wakeup alarm *walarm*:com.android.providers.calendar.intent.CalendarProvider2: 1 times
+  u0a14:
+    Wake lock *dexopt* realtime
+    Background for: 124ms 
+    Cached for: 7m 3s 271ms 
+    Total running: 7m 3s 395ms 
+    Total cpu time: u=30ms s=50ms 
+    Proc com.android.managedprovisioning:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a15:
+    Wake lock *dexopt* realtime
+  u0a16:
+    Wake lock *dexopt* realtime
+    Background for: 119ms 
+    Cached for: 4m 23s 574ms 
+    Total running: 4m 23s 693ms 
+    Total cpu time: u=40ms s=50ms 
+    Proc com.android.contacts:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a17:
+    Wake lock *dexopt* realtime
+    Background for: 410ms 
+    Cached for: 6m 59s 861ms 
+    Total running: 7m 0s 271ms 
+    Total cpu time: u=110ms s=130ms 
+    Proc com.android.dialer:
+      CPU: 30ms usr + 20ms krn ; 0ms fg
+      1 starts
+  u0a18:
+    Wake lock MediaScannerService: 468ms partial (1 times) max=1405 actual=1405, 1s 405ms background partial (1 times) max=1405 realtime
+    Wake lock *dexopt* realtime
+    TOTAL wake: 468ms blamed partial, 1s 405ms actual partial, 1s 405ms actual background partial realtime
+    Fg Service for: 48ms 
+    Background for: 8s 278ms 
+    Cached for: 7m 1s 856ms 
+    Total running: 7m 10s 182ms 
+    Total cpu time: u=1s 195ms s=350ms 
+    Proc android.process.media:
+      CPU: 1s 540ms usr + 450ms krn ; 0ms fg
+      1 starts
+    Apk com.android.providers.media:
+      Service com.android.providers.media.MediaScannerService:
+        Created for: 6s 15ms uptime
+        Starts: 2, launches: 2
+  u0a19:
+    Wake lock *dexopt* realtime
+  u0a20:
+    Wake lock *dexopt* realtime
+  u0a21:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+    Foreground activities: 2s 986ms realtime (1 times)
+    Top for: 3s 584ms 
+    Background for: 16ms 
+    Cached for: 7m 1s 866ms 
+    Total running: 7m 5s 466ms 
+    Total cpu time: u=635ms s=220ms 
+    Proc com.android.packageinstaller:
+      CPU: 10ms usr + 10ms krn ; 800ms fg
+      1 starts
+  u0a22:
+    Wake lock *dexopt* realtime
+    Wake lock StartingAlertService: 89ms partial (2 times) max=140 actual=276, 276ms background partial (2 times) max=140 realtime
+    TOTAL wake: 89ms blamed partial, 276ms actual partial, 276ms actual background partial realtime
+    Background for: 6m 21s 313ms 
+    Cached for: 40s 707ms 
+    Total running: 7m 2s 20ms 
+    Total cpu time: u=380ms s=155ms 
+    Proc com.android.mms:
+      CPU: 150ms usr + 90ms krn ; 0ms fg
+      1 starts
+    Proc com.mediatek.omacp:
+      CPU: 20ms usr + 10ms krn ; 0ms fg
+      1 starts
+    Apk com.android.mms:
+      Service com.mediatek.mwi.MwiReceiverService:
+        Created for: 16ms uptime
+        Starts: 1, launches: 1
+      Service com.android.mms.transaction.NoneService:
+        Created for: 1m 2s 129ms uptime
+        Starts: 1, launches: 1
+      Service com.android.mms.transaction.SmsReceiverService:
+        Created for: 251ms uptime
+        Starts: 1, launches: 1
+      Service com.android.mms.transaction.TransactionService:
+        Created for: 250ms uptime
+        Starts: 1, launches: 1
+    Apk com.mediatek.omacp:
+      Service com.mediatek.omacp.message.OmacpReceiverService:
+        Created for: 64ms uptime
+        Starts: 1, launches: 1
+  u0a23:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+    Foreground activities: 122ms realtime (1 times)
+    Top for: 1s 772ms 
+    Cached for: 48s 313ms 
+    Total running: 50s 85ms 
+    Total cpu time: u=80ms s=30ms 
+    Proc com.android.provision:
+      CPU: 20ms usr + 10ms krn ; 80ms fg
+      1 starts
+  u0a24:
+    Wake lock *dexopt* realtime
+  u0a25:
+    User activity: 4 other
+    Wake lock *dexopt* realtime
+    Wake lock *vibrator* realtime
+    Wake lock show keyguard: 209ms partial (2 times) max=169 actual=330 realtime
+    TOTAL wake: 209ms blamed partial, 330ms actual partial realtime
+    Sensor 8: 1s 527ms realtime (2 times)
+    Vibrator: 22ms realtime (2 times)
+    Fg Service for: 7m 17s 808ms 
+    Cached for: 91ms 
+    Total running: 7m 17s 899ms 
+    Total cpu time: u=11s 915ms s=3s 50ms 
+    Proc com.android.systemui:
+      CPU: 7s 840ms usr + 2s 200ms krn ; 0ms fg
+      1 starts
+    Apk com.android.systemui:
+      Service com.android.systemui.ImageWallpaper:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.keyguard.KeyguardService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.SystemUIService:
+        Created for: 1m 49s 906ms uptime
+        Starts: 1, launches: 1
+  u0a26:
+    Wake lock *dexopt* realtime
+  u0a27:
+    Wake lock *dexopt* realtime
+  u0a28:
+    Wake lock *dexopt* realtime
+  u0a29:
+    Wake lock *dexopt* realtime
+  u0a30:
+    Wake lock *dexopt* realtime
+  u0a31:
+    Wake lock *dexopt* realtime
+  u0a32:
+    Wake lock *dexopt* realtime
+  u0a33:
+    Wake lock *dexopt* realtime
+  u0a34:
+    Wake lock *dexopt* realtime
+  u0a35:
+    Wake lock *dexopt* realtime
+  u0a36:
+    Wake lock *dexopt* realtime
+    Background for: 89ms 
+    Cached for: 6m 2s 254ms 
+    Total running: 6m 2s 343ms 
+    Total cpu time: u=25ms s=20ms 
+    Proc com.mediatek.camera:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a37:
+    Wake lock *dexopt* realtime
+  u0a38:
+    Wake lock *dexopt* realtime
+  u0a40:
+    Wake lock *dexopt* realtime
+  u0a41:
+    Wake lock *dexopt* realtime
+  u0a42:
+    Wake lock *dexopt* realtime
+  u0a43:
+    Wake lock *dexopt* realtime
+  u0a44:
+    Wake lock *dexopt* realtime
+  u0a45:
+    Wake lock *dexopt* realtime
+  u0a46:
+    Wake lock *dexopt* realtime
+  u0a47:
+    Wake lock *dexopt* realtime
+  u0a48:
+    Wake lock *dexopt* realtime
+    Background for: 6m 35s 550ms 
+    Cached for: 132ms 
+    Total running: 6m 35s 682ms 
+    Total cpu time: u=110ms s=90ms 
+    Proc com.mediatek.mtklogger:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+      2 starts
+    Apk com.mediatek.mtklogger:
+      Service com.mediatek.mtklogger.framework.MTKLoggerService:
+        Created for: 1m 18s 711ms uptime
+        Starts: 1, launches: 2
+  u0a49:
+    Wake lock *dexopt* realtime
+  u0a50:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm*: 6s 901ms partial (0 times) max=8743 actual=8743, 8s 743ms background partial (0 times) max=8743 realtime
+    TOTAL wake: 6s 901ms blamed partial, 8s 743ms actual partial, 8s 743ms actual background partial realtime
+    Background for: 26s 286ms 
+    Cached for: 6m 36s 869ms 
+    Total running: 7m 3s 155ms 
+    Total cpu time: u=2s 550ms s=1s 605ms 
+    Proc *wakelock*:
+      CPU: 2s 145ms usr + 1s 285ms krn ; 0ms fg
+    Proc com.valmedia.fdelux:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+      2 starts
+    Proc com.valmedia.fdelux:lebian.base:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.valmedia.fdelux:
+      Service com.iekie.lovelyfonts.fonts.service.StartService:
+        Created for: 15s 166ms uptime
+        Starts: 3, launches: 3
+  u0a51:
+    Wake lock *dexopt* realtime
+    Wake lock StartingAlertService realtime
+    Background for: 30s 309ms 
+    Cached for: 10s 109ms 
+    Total running: 40s 418ms 
+    Total cpu time: u=110ms s=40ms 
+    Proc com.android.calendar:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.android.calendar:
+      Service com.android.calendar.alerts.AlertService:
+        Created for: 77ms uptime
+        Starts: 1, launches: 1
+      Service com.android.calendar.alerts.InitAlarmsService:
+        Created for: 30s 102ms uptime
+        Starts: 1, launches: 1
+  u0a52:
+    Wake lock *dexopt* realtime
+    Background for: 462ms 
+    Cached for: 6m 20s 230ms 
+    Total running: 6m 20s 692ms 
+    Total cpu time: u=550ms s=150ms 
+    Proc com.android.gallery3d:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+      1 starts
+  u0a53:
+    Wake lock *dexopt* realtime
+  u0a54:
+    Wake lock *dexopt* realtime
+  u0a55:
+    Wake lock *dexopt* realtime
+    Wake lock *vibrator* realtime
+    Vibrator: 320ms realtime (16 times)
+    Fg Service for: 955ms 
+    Background for: 7m 17s 15ms 
+    Cached for: 87ms 
+    Total running: 7m 18s 57ms 
+    Total cpu time: u=3s 100ms s=900ms 
+    Proc com.android.inputmethod.latin:
+      CPU: 2s 620ms usr + 740ms krn ; 0ms fg
+      1 starts
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.LatinIME:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a56:
+    Wake lock *dexopt* realtime
+  u0a57:
+    Wake lock *dexopt* realtime
+  u0a58:
+    Wake lock *dexopt* realtime
+  u0a59:
+    Wake lock *dexopt* realtime
+  u0a60:
+    Wake lock *dexopt* realtime
+    Foreground for: 4s 805ms 
+    Background for: 16ms 
+    Cached for: 45s 508ms 
+    Total running: 50s 329ms 
+    Total cpu time: u=40ms s=40ms 
+    Proc com.android.printspooler:
+      CPU: 10ms usr + 20ms krn ; 0ms fg
+      1 starts
+    Apk com.android.printspooler:
+      Service com.android.printspooler.model.PrintSpoolerService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a61:
+    Wake lock *dexopt* realtime
+  u0a62:
+    Wake lock *dexopt* realtime
+    Background for: 93ms 
+    Cached for: 58s 570ms 
+    Total running: 58s 663ms 
+    Total cpu time: u=60ms s=30ms 
+    Proc com.android.quicksearchbox:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a63:
+    Wake lock *dexopt* realtime
+  u0a64:
+    Wake lock *dexopt* realtime
+  u0a65:
+    Wake lock *dexopt* realtime
+  u0a66:
+    Wake lock *dexopt* realtime
+  u0a67:
+    Wake lock *dexopt* realtime
+  u0a68:
+    Wake lock *dexopt* realtime
+  u0a69:
+    Wake lock *dexopt* realtime
+  u0a70:
+    Wake lock *dexopt* realtime
+  u0a31000:
+    Total cpu time: u=4s 840ms s=520ms 
+    (nothing executed)
+  u0a31001:
+    Total cpu time: u=380ms s=50ms 
+    (nothing executed)
+  u0a40020:
+    Total cpu time: u=90ms s=30ms 
+    (nothing executed)
+  u0a40025:
+    Total cpu time: u=320ms s=30ms 
+    (nothing executed)
+  u0a40066:
+    Total cpu time: u=360ms s=60ms 
+    (nothing executed)
+  u0a40067:
+    Total cpu time: u=340ms s=80ms 
+    (nothing executed)
+  u0a40068:
+    Total cpu time: u=690ms s=40ms 
+    (nothing executed)
+  u0a40069:
+    Total cpu time: u=1s 70ms s=120ms 
+    (nothing executed)
+  u0a40070:
+    Total cpu time: u=590ms s=80ms 
+    (nothing executed)
+
